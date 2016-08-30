@@ -37,7 +37,7 @@
             this.btn.Name = "btn";
             this.btn.Size = new System.Drawing.Size(75, 23);
             this.btn.TabIndex = 0;
-            this.btn.Text = "button1";
+            this.btn.Text = "Button";
             this.btn.UseVisualStyleBackColor = true;
             // 
             // Form1
